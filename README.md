@@ -1,5 +1,5 @@
 # Digital Forensics & Incident Response (DFIR) Portfolio
-Hands-on DFIR investigations spanning network forensics; memory analysis; disk examination; threat hunting; and malware analysis. Each case is independently worked through and documented from scratch — evidence collected, analysed, and mapped to real-world attack frameworks.
+Hands-on DFIR investigations spanning: network forensics, memory analysis, disk examination, threat hunting and malware analysis. Each case is independently worked through and documented from scratch — evidence collected, analysed, and mapped to real-world attack frameworks.
 
 ## Area of Focus
 | Domain                 | Description                                                                      |
