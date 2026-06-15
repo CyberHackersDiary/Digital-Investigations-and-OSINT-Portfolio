@@ -25,7 +25,7 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 
 ## Skills Demonstrated
 * Disk Image Acquisition & Verification (hashing, write-blocking)
-* File System Analysis (NTFS, FAT32, exFAT, ext4, APFS, HFS+)
+* File System Analysis (NTFS, FAT32, MTF, FAT32, GPT, MBR, exFAT, ext4, APFS, HFS+)
 * Partition & Volume Structure Examination
 * Deleted File Recovery & Carving
 * MFT & Inode Analysis
