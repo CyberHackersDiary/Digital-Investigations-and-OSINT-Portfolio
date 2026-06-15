@@ -20,7 +20,7 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 * Evidence Preservation & Chain of Custody
 
 ## Investigations
-| Investigation | Platform       |
+| Case Title | Methedology Source |Applied Investigation Dataset | Platform |
 | ------------- | -------------- |
 | M57-Jean — Corporate Espionage Investigation | DFIR Madness |  
 | Digital Forensics B4DM755 Case | TryHackMe | 
