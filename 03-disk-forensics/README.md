@@ -44,4 +44,4 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 ## Investigations
 | Investigation | Methodology Source | Applied Investigation Dataset |
 | ------------- | -------------- | -------------- |
-| Case-001-M57-Jean — Corporate Espionage Investigation   | TryHackMe — Case B4DM755  | M57-Jean; Digital Corpora |
+| Case-001-M57-Jean-Corporate Espionage Investigation   | TryHackMe — Case B4DM755  | M57-Jean; Digital Corpora |
