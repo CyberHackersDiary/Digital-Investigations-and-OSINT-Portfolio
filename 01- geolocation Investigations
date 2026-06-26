@@ -1,0 +1,59 @@
+# Geolocation Investigations
+
+Identifying the location of images and videos using publicly available information, visual clues, satellite imagery, and evidence-based analysis.
+
+This repository documents my journey in OSINT geolocation through practical investigations, methodology breakdowns, and real-world case studies.
+
+## Areas of Focus
+
+- Landmark Identification
+- Road Sign Analysis
+- Terrain & Environmental Analysis
+- Architecture & Infrastructure Recognition
+- Shadow & Sun Position Analysis
+- Satellite Imagery Comparison
+- Street View Verification
+- Image-to-Map Correlation
+- Video Geolocation
+- Evidence Documentation & Reporting
+
+## Investigation Methodology
+
+1. Collect available visual evidence.
+2. Extract and document identifiable clues.
+3. Generate location hypotheses.
+4. Verify findings using mapping and satellite tools.
+5. Correlate multiple sources of evidence.
+6. Document conclusions with supporting evidence.
+
+## Tools
+
+- Google Earth Pro
+- Google Maps
+- Street View
+- Yandex Maps
+- Bing Maps
+- OpenStreetMap
+- SunCalc
+- GeoSpy (where applicable)
+
+## Skills Demonstrated
+
+- Analytical Thinking
+- Visual Intelligence Analysis
+- Open-Source Research
+- Evidence-Based Investigation
+- Verification Methodology
+- Documentation & Reporting
+
+## Investigations
+
+| Investigation | Skills Applied |
+|--------------|---------|
+| Geolocation Challenge 01 | Landmark Analysis, Satellite Verification |
+| Geolocation Challenge 02 | Terrain Analysis, Street View Correlation |
+| Video Geolocation Case Study | Frame Analysis, Geolocation  |
+
+## Objective
+
+To develop expertise in digital investigations by accurately locating images and videos using OSINT techniques and documenting reproducible investigative methodologies.
